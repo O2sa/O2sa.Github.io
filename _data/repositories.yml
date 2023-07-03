@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
+  - o2sa
   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - o2sa/CV-Website
+  - o2sa/Car-Parking-System
+  - o2sa/CCNA-Labs
+  - o2sa/LayerOffice
+  - o2sa/O2sa.github.io
+  
