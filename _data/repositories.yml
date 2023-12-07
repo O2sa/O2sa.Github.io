@@ -1,11 +1,13 @@
 github_users:
   - o2sa
-  - alshedivat
+  # - alshedivat
 
 github_repos:
-  - o2sa/CV-Website
+  - o2sa/Mobile-Shop
   - o2sa/Car-Parking-System
   - o2sa/CCNA-Labs
   - o2sa/LayerOffice
+  - o2sa/Typing-Speed-Test
+  - o2sa/Special-Website 
   - o2sa/O2sa.github.io
   

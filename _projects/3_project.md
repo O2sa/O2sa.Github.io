@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
+title: Typing Speed Test
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/projects_imgs/speed_test.png
+redirect: https://github.com/O2sa/Typing-Speed-Test
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
@@ -33,7 +33,8 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+   Collection of screenshots.
+
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
