@@ -6,7 +6,7 @@ subtitle: Web developer @ <a href='https://github.com/orgs/CS0Team'>CS0Team</a>.
 
 profile:
   align: right
-  image: Profile.png
+  image: code-bg.jpg
   image_circular: false # crops the image to make it circular
   address: >
     
