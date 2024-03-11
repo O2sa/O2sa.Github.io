@@ -4,7 +4,7 @@ title: Car Parking System
 description: a project with a background image
 img: assets/img/car-parking.jpg
 importance: 1
-category: work
+category: learn
 ---
 
 Simple parking system with esp32 microcontroller that's have a lot of features like web server and wifi. And using ultrasonic sensors to detect the cars and count them. and using servos to controller the exit and entry gates.

@@ -4,7 +4,7 @@ title: lawyer Office Website
 description: Simple Website for a lawyer's office
 img: assets/img/projects_imgs/laywer_website/img1.png
 importance: 3
-category: work
+category: templates
 ---
 
 An entire website designed specifically for a lawyer.

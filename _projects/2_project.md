@@ -4,7 +4,7 @@ title: Special-Website
 description: This a special website I designed.
 img: assets/img/Special Design1.png
 importance: 2
-category: work
+category: templates
 ---
 
 <div class="d-flex flex-column">

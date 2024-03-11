@@ -4,7 +4,7 @@ title: Company Website Template
 description: A sample design of a company website
 img: assets/img/projects_imgs/company_website_template/img1.png
 importance: 3
-category: work
+category: templates
 ---
 
 

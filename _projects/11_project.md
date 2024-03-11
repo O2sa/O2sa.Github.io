@@ -1,10 +1,12 @@
 ---
 layout: page
-title: CCNA Summary Labs
-description: My practice labs on CCNA course. 
+title: Websites Templates
+description: Collection of website templates. 
 img: assets/img/projects_imgs/ccna_labs/img1.png
 importance: 2
-category: learn
+category: templates
+redirect: https://github.com/O2sa/shareme
+
 ---
 
 A collection of CCNA course notes that can be taken as a resource for study, review and practice.
@@ -25,16 +27,3 @@ A collection of CCNA course notes that can be taken as a resource for study, rev
 
 
 
-
-
-<!-- <div id="markdown-content"></div>
-
-
-<script>
-  fetch('https://github.com/O2sa/Ultimate-Frontend/edit/main/README.md')
-    .then(response => response.text())
-    .then(markdown => {
-      const markdownContent = document.getElementById('markdown-content');
-      markdownContent.innerHTML = marked(markdown);
-    })
-</script> -->
