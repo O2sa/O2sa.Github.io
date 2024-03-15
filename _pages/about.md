@@ -20,20 +20,6 @@ Versatile Full Stack Developer with a passion for creating innovative and scalab
 
 ---
 
-### Skills:
-- Programming Languages: JavaScript (Node.js, React.js, Vue.js), Python, Java
-- Frontend Technologies: HTML5, CSS3, Sass, JavaScript, React.js, Vue.js, Bootstrap, Tailwind CSS
-- Backend Technologies: Node.js, Express.js, Django, Flask
-- Databases: MongoDB, MySQL, PostgreSQL
-- API Development: RESTful APIs, GraphQL
-- State Management: Redux
-- Object-Oriented Programming (OOP)
-- Design Patterns: MVC, MVVM
-- Agile Methodology: Scrum, Kanban
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Version Control: Git, GitHub
-- Testing: Unit Testing, Integration Testing
-- DevOps: Linux, Docker, Kubernetes
 
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
