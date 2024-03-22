@@ -7,7 +7,7 @@ subtitle: Software developer @ <a href='https://github.com/orgs/CS0Team'>CS0Team
 profile:
   align: right
   image: code-bg.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: Taiz St., Sana'a, Yemen.
 
 news: false # includes a list of news items
