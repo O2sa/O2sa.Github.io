@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Car Parking System
-description: a project with a background image
+description: Smart parking system built with esp32.
 img: assets/img/car-parking.jpg
 importance: 1
 category: learn
