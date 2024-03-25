@@ -3,30 +3,35 @@ layout: page
 title: Mobile Shop
 description: Simple website for selling mobiles.
 img: assets/img/projects_imgs/Mobile_shop/img1.png
-importance: 3
-category: full-websites
+importance: 1
+category: full-stack
 ---
 
-
+## Overview
 Mobile Shop is a web application built to provide users with a platform to browse, search, and purchase mobile phones online. The website offers a user-friendly interface and a wide range of mobile phones from various brands.
 
-## Screenshots
+## Demo
 
-<div class="col">
+You can find the demo of the website at the following link:
+[View Demo](https://alnubalaoffice.000webhostapp.com)
+
+
+## Screenshots
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects_imgs/Mobile_shop/img1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects_imgs/Mobile_shop/img3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-  <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects_imgs/Mobile_shop/img2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>  <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects_imgs/Mobile_shop/img4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects_imgs/Mobile_shop/img2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-## <br/>
 
 ## Features
 
@@ -48,10 +53,6 @@ Mobile Shop is a web application built to provide users with a platform to brows
 - MySQL: Relational database management system for storing product and user data.
 - Object-Oriented Programming (OOP): Programming paradigm used for organizing and managing code.
 
-## Demo
-
-You can find the demo of the website at the following link:
-[View Demo](https://o2sa.github.io/Mobile-Shop/HTML%20Template/index.html#)
 
 ## Github Repositry
 

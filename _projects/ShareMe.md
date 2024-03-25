@@ -5,17 +5,23 @@ description: simple social media app that allows users to share their pictures
 img: https://github.com/O2sa/shareme/raw/main/screenshots/newname_2.png
 importance: 2
 # redirect: https://github.com/O2sa/shareme
-category: full-websites
+category: full-stack
 ---
 
 ShareMe is a simple social media app that allows users to share their pictures and connect with others in a visual and engaging way. The application is built using React for the frontend, Sanity for content management, and Google authentication for user authentication.
 
-## Screenshots
+## Demo
 
-<div class="col">
+You can find the demo of the website at the following link:
+[View Demo](https://deploy--share-my-social-app.netlify.app)
+
+## Screenshots
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="https://github.com/O2sa/shareme/raw/main/screenshots/newname_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="https://github.com/O2sa/shareme/raw/main/screenshots/newname_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -41,10 +47,6 @@ ShareMe is a simple social media app that allows users to share their pictures a
 - Google Auth: Google authentication for secure user login.
 - HTML/CSS: Markup and styling languages for building the website's structure and appearance.
 
-## Demo
-
-You can find the demo of the website at the following link:
-[View Demo](https://shareme-11mi.onrender.com)
 
 
 ## Github Repositry

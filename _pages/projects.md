@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 2
-display_categories: [full-websites,templates, fun, learn]
+display_categories: [full-stack, frontend, UI/UX, web-tools, learn]
 horizontal: false
 ---
 
