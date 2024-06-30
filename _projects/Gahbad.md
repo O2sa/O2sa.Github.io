@@ -11,6 +11,8 @@ category: full-stack
 
 Gahbad is a comprehensive platform designed to facilitate an earning system within universities, fostering seamless communication and collaboration among teachers, students, and the university administration. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, this platform offers a multitude of features aimed at enhancing productivity and engagement within academic institutions.
 
+## Demo 
+[demo](https://elearningsystem.onrender.com)
 ## Screenshots
 
 <div class="row">
